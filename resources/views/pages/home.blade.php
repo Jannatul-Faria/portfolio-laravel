@@ -1,0 +1,9 @@
+@extends('layout.app')
+@section('content')
+    @include('components.pages.home')
+    @include('components.pages.about')
+    @include('components.pages.skills')
+    @include('components.pages.project')
+    @include('components.pages.pricing')
+    @include('components.pages.contact')
+@endsection
