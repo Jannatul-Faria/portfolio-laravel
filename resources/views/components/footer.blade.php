@@ -41,7 +41,7 @@
                     <div class="col-lg-4 col-md-6 footer-newsletter">
                         <h4>Our Newsletter</h4>
                         <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna</p>
-                        <form action="" method="post">
+                        <form action="">
                             <input type="email" name="email"><input type="submit" value="Subscribe">
                         </form>
 

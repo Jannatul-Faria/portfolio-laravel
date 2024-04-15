@@ -9,13 +9,13 @@
                      <div class="testimonial-item">
                          <img src="{{ asset('assets') }}/img/testimonials/testimonials-1.jpg" class="testimonial-img"
                              alt="">
-                         <h3>Saul Goodman</h3>
+                         <h3>John Larson</h3>
                          <h4>client</h4>
                          <p>
                              <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                             Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit
-                             rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam,
-                             risus at semper.
+                             It's indeed a satisfying experience when you receive the service you paid for. Highly
+                             recommend this team for their dedication and professional behavior. Look to collaborate in
+                             the future also. Thanks.
                              <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                          </p>
                      </div>
@@ -29,9 +29,8 @@
                          <h4>client</h4>
                          <p>
                              <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                             Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid
-                             cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet
-                             legam anim culpa.
+                             At first there was confusion and I did not understand the work to be done. After some
+                             conversations she finally delivered correctly.
                              <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                          </p>
                      </div>
@@ -45,9 +44,10 @@
                          <h4>client</h4>
                          <p>
                              <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                             Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem
-                             veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint
-                             minim.
+                             She is experienced and tries to understand the problem in depth. She is a great researcher
+                             and has excellent problem and bug fixing skills. She solved my issue quickly and I am happy
+                             working with hem. I will definitely use her next time.
+
                              <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                          </p>
                      </div>
@@ -61,29 +61,16 @@
                          <h4>client</h4>
                          <p>
                              <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                             Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim
-                             fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem
-                             dolore labore illum veniam.
+                             Fast and high-quality work from an excellent developer. completes orders quickly and
+                             competently. She has my highest recommendation, and I'll use her again if I have any more
+                             work to do.
+
                              <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                          </p>
                      </div>
                  </div><!-- End testimonial item -->
 
-                 <div class="swiper-slide">
-                     <div class="testimonial-item">
-                         <img src="{{ asset('assets') }}/img/testimonials/testimonials-5.jpg" class="testimonial-img"
-                             alt="">
-                         <h3>John Larson</h3>
-                         <h4>client</h4>
-                         <p>
-                             <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                             Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster
-                             veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam
-                             culpa fore nisi cillum quid.
-                             <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                         </p>
-                     </div>
-                 </div><!-- End testimonial item -->
+
 
              </div>
              <div class="swiper-pagination"></div>
@@ -104,8 +91,9 @@
 
              <div class="col-lg-3 col-md-6">
                  <div class="member" data-aos="zoom-in" data-aos-delay="100">
-                     <div class="pic"><img src="{{ asset('assets') }}/img/project/project-1.jpg" class="img-fluid"
-                             alt="">
+                     <div class="pic"><a href="https://github.com/Jannatul-Faria/POS_Application.git"><img
+                                 src="{{ asset('assets') }}/img/project/project1.png" class="img-fluid"
+                                 alt=""></a>
                      </div>
                      <div class="member-info">
                          <h4>POS Application</h4>
@@ -117,11 +105,13 @@
 
              <div class="col-lg-3 col-md-6 mt-5 mt-md-0">
                  <div class="member" data-aos="zoom-in" data-aos-delay="200">
-                     <div class="pic"><img src="{{ asset('assets') }}/img/project/project-2.jpg" class="img-fluid"
-                             alt="">
+                     <div class="pic"><a
+                             href="https://drive.google.com/file/d/1K67WR06EFE9Vx-SBfI68wWr4gD2nPdqA/view?usp=sharing"><img
+                                 src="{{ asset('assets') }}/img/project/project2.png" class="img-fluid"
+                                 alt=""></a>
                      </div>
                      <div class="member-info">
-                         <h4>Inventory Management</h4>
+                         <h4>Job Pulse</h4>
                          <span></span>
 
                      </div>
@@ -130,18 +120,7 @@
 
 
 
-             <div class="col-lg-3 col-md-6 mt-5 mt-lg-0">
-                 <div class="member" data-aos="zoom-in" data-aos-delay="400">
-                     <div class="pic"><img src="{{ asset('assets') }}/img/project/project-4.jpg" class="img-fluid"
-                             alt="">
-                     </div>
-                     <div class="member-info">
-                         <h4>Ecommerce Website</h4>
-                         <span></span>
 
-                     </div>
-                 </div>
-             </div>
 
          </div>
 

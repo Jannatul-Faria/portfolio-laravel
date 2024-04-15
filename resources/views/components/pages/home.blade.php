@@ -7,9 +7,10 @@
                 <div data-aos="zoom-out">
                     <h5>Hi, I am </h5>
                     <h1> <span> Jannatul Faria</span></h1>
-                    <h2> Full Stack Web Developer</h2>
+                    <h2>Laravel Developer</h2>
                     <div class="text-center text-lg-start">
-                        <a href="" class="btn-get-started scrollto">Get Started</a>
+                        <a href="https://tarun.free.nf/PDF/Laravel%20Resume.pdf" class="btn-get-started scrollto">Download
+                            Resume</a>
                     </div>
                 </div>
             </div>
@@ -36,7 +37,3 @@
     </svg>
 
 </section>{{-- End Hero --}}
-
-<main id="main">
-
-</main>{{-- End #main --}}

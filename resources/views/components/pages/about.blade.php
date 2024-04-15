@@ -12,12 +12,10 @@
                         data-aos="fade-left">
                         <h3>About Me</h3>
                         <p>Hello, I am Jannatul Faria.
-                            I am a Full Stack Web Application Developer.
-                            I have 2 years experience in PHP,
-                            Laravel based application development field.
-                            With expertise in JavaScript, Git, GitHub, HTML, CSS, Bootstrap,
-                            Tailwind CSS, and MySQL,
-                            I am dedicated to delivering robust and innovative web solutions.</p>
+                            Hello, I am Jannatul Faria. I am a Laravel Application Developer. I have 1+ years experience
+                            in PHP, Laravel based application development field. With expertise in JavaScript, Git,
+                            GitHub, HTML, CSS, Bootstrap, Tailwind CSS, and MySQL, I am dedicated to delivering robust
+                            and innovative web solutions.</p>
 
                         <div class="icon-box" data-aos="zoom-in" data-aos-delay="100">
                             <div class="icon"><i class="bx bx-fingerprint"></i></div>
